@@ -1,3 +1,6 @@
+body {
+	margin: 0px 0px 0px 155px;
+}
 .header {
 	height: 73px;
     width: 940px;
@@ -71,8 +74,9 @@
     background: #8f4ee0;
 }
 .aside {
-	position: relative;
+    position: relative;
     top: -339px;
+    right: 155px;
     bottom: 305px;
     width: 17px;
     height: 165px;
