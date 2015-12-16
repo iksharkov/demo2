@@ -3,9 +3,9 @@
     margin: 0px auto;
 }
 .header {
-	height: 73px;
     width: 940px;
-    margin: 0px 0px 0px 40px;
+    margin: 0px 0px 10px 40px;
+    padding: 0px 0px 10px 0px;
 }
 .boxh {
 	float: left;
@@ -15,7 +15,6 @@
 }
 .container1 {
     width: 940px;
-    height: 213px;
 	margin: 10px 0px 0px 40px;
 }
 .box {
